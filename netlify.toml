@@ -12,7 +12,9 @@
 #  to = "/blog/:splat"
 
 from = "https://leftguide-blog.netlify.app/*" 
-to = "https://left.guide/blog/:splat 301!"
+to = "https://left.guide/blog/:splat"
+status = 301
+force = true
 
 # The default HTTP status code is 301, but you can define a different one e.g.
 # status = 302
