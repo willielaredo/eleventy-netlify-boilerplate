@@ -7,7 +7,7 @@ date: 2021-01-30T20:38:16.926Z
 author: Left Guide
 summary: Biden is busy popping off executive orders in the backdrop of
   Redditers' Game Stop stock market intervention. Who's catching the attention
-  of Left Twitter?
+  of Left Twitter? Let's run down the top of today's Left Guide Daily Hot List.
 tags:
   - hot-list
   - daily
