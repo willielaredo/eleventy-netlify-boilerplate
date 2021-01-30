@@ -5,8 +5,9 @@ metaDescription: This is a sample meta description. If one is not present in
   instead.
 date: 2021-01-30T20:38:16.926Z
 author: Left Guide
-summary: Biden is busy popping off executive orders in the backdrop of the Game
-  Stop stick market intervention. Who's catching the attention of Left Twitter?
+summary: Biden is busy popping off executive orders in the backdrop of
+  Redditers' Game Stop stock market intervention. Who's catching the attention
+  of Left Twitter?
 tags:
   - hot-list
   - daily
