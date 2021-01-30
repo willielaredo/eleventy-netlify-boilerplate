@@ -44,7 +44,7 @@ Still riding the wave of their popular clarifying intervention about the nature 
 
 ## \#6 - [Antifa Stalist](https://left.guide/profile/petersbumb)   +3.39% +104
 
-[Antifa Stalist](https://left.guide/profile/petersbumb) keeping the host list host with tankie takes, taking pop shots at Kamala/Biden like this banger on Somalia, holding nothing back.
+[Antifa Stalist](https://left.guide/profile/petersbumb) keeping the Hot List hot with tankie takes, taking pop shots at Kamala/Biden like this banger on Somalia, holding nothing back.
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Biden/Harris are accelerating drone strikes in Somalia. At the current rates, 2021 is on course to surpass the number of U.S. airstrikes in Somalia than in the last several years. Kamala Harris is a war criminal.</p>&mdash; Antifa Stalinist 💁🏾‍♀️ (@petersbumb) <a href="https://twitter.com/petersbumb/status/1354900463230005257?ref_src=twsrc%5Etfw">January 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
