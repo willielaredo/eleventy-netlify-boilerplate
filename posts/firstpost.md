@@ -11,7 +11,7 @@ tags:
   - hot-list
   - daily
 ---
-## \#10 - [risguey](https://left.guide/profile/risguey)
+## \#10 - [risguey](https://left.guide/profile/risguey) +2.30% +57
 
 Still riding the wave of their popular clarifying intervention about the nature of the state's relation to capital, @risguey grows 2.30%, adding 57 followers.
 
