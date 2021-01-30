@@ -29,6 +29,6 @@ Still riding the wave of their popular clarifying intervention about the nature 
 
 ## \#8 - [](https://left.guide/profile/risguey)[Moumita Ahmed](https://left.guide/profile/disruptionary)   +2.66% +378
 
-[](https://left.guide/profile/this-machine-kills-podcast)Moumita's run for NYC City Council in Queens is getting the backing of the big movers and shakers in the NYC progressive community, including a feature in [@DesiGirlMag](https://twitter.com/DesiGirlMag) shout outs from Tiffany Caban and a retweet from [Susan Sarandon](https://left.guide/profile/SusanSarandon), who Moumita calls \*THE\* Queens Queen.
+[Moumita](https://left.guide/profile/disruptionary)'s run for NYC City Council in Queens is getting the backing of the big movers and shakers in the NYC progressive community, including a feature in [@DesiGirlMag](https://twitter.com/DesiGirlMag), a shout out from Tiffany Caban and a retweet from [Susan Sarandon](https://left.guide/profile/SusanSarandon), who Moumita calls \*THE\* Queens Queen.
 
 ![](/static/img/moumita-susan-sarandon-2021-01-30.jpeg)
