@@ -1,5 +1,5 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "description": "A template for building a simple blog website with the Eleventy static site generator, Netlify CMS, and with deployment to Netlify.",
-  "url": "https://eleventy-netlify-boilerplate.netlify.app"
+    "title": "Left Guide",
+    "description": "Analyzing and measuring the growth and strength of thousands of Left campaigns, organizations, movements, and media",
+    "url": "https://eleventy-netlify-boilerplate.netlify.app"
 }

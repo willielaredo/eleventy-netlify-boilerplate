@@ -7,9 +7,9 @@
 
 		<header>
 			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
+				<a href="{{ '/' | url }}">{{ metadata.title }}</a><span class="version-tag">[blog]</span>
 			</em>
-			{% include "components/nav.njk" %}
+			<p>{{ metadata.description}}</p>
 		</header>
 
 		<main>
