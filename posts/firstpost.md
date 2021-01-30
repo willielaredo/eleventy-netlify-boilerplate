@@ -19,8 +19,16 @@ Still riding the wave of their popular clarifying intervention about the nature 
 
 <hr>
 
-## \#9 - [](https://left.guide/profile/risguey)This Machine Kills Podcast    +2.52% +61
+## \#9 - [](https://left.guide/profile/risguey)[This Machine Kills Podcast](https://left.guide/profile/this-machine-kills-podcast)    +2.52% +61
 
-This Machine Kills continues their steady and consistent growth since they came on to left.guide's radar on Jan 5, 2021. 
+[This Machine Kills](https://left.guide/profile/this-machine-kills-podcast) continues their steady and consistent growth since they came on to left.guide's radar on Jan 5, 2021. 
 
 ![](/static/img/this-machine-kills-time-chart-2021-01-30.png)
+
+<hr>
+
+## \#8 - [](https://left.guide/profile/risguey)[Moumita Ahmed](https://left.guide/profile/disruptionary)   +2.66% +378
+
+[](https://left.guide/profile/this-machine-kills-podcast)Moumita's run for NYC City Council in Queens is getting the backing of the big movers and shakers in the NYC progressive community, including a feature in [@DesiGirlMag](https://twitter.com/DesiGirlMag) shout outs from Tiffany Caban and a retweet from [Susan Sarandon](https://left.guide/profile/SusanSarandon), who Moumita calls \*THE\* Queens Queen.
+
+![](/static/img/moumita-susan-sarandon-2021-01-30.jpeg)
