@@ -11,8 +11,6 @@
 #  from = "/*"
 #  to = "/blog/:splat"
 
-leftguide-blog.netlify.app/* left.guide/:splat 301!
-
 # The default HTTP status code is 301, but you can define a different one e.g.
 # status = 302
 
