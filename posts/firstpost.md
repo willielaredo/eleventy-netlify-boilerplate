@@ -1,30 +1,18 @@
 ---
-title: Post post post
+title: Daily Hot List Top 10 - Friday, January 29
 metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.desciption will be used
   instead.
-date: 2019-01-01T00:00:00.000Z
-author: John Appleseed
-summary: Why contemplating our mortality can be a powerful catalyst for change
+date: 2021-01-30T20:38:16.926Z
+author: Left Guide
+summary: Biden is busy popping off executive orders in the backdrop of the Game
+  Stop stick market intervention. Who's catching the attention of Left Twitter?
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - hot-list
+  - daily
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## \#10 - [risguey](https://left.guide/profile/risguey)
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Still riding the wave of their popular clarifying intervention about the nature of the state's relation to capital, @risguey grows 2.30%, adding 57 followers.
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">billionaires snapped their fingers and the entire fed is “monitoring volatility” in the market bc the peasants started taking their money back<br><br>see how the state is merely the extension of capital? it exists only to manage, communicate, and deliver surplus onto the ruling class.</p>&mdash; ‏ً (@risguey) <a href="https://twitter.com/risguey/status/1354551270510645248?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
