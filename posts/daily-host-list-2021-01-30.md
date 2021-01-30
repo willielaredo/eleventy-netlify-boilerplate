@@ -42,7 +42,7 @@ Still riding the wave of their popular clarifying intervention about the nature 
 
 <hr>
 
-## \#6 - [Labyrinth](https://left.guide/profile/petersbumb)   +3.39% +104
+## \#6 - [Antifa Stalist](https://left.guide/profile/petersbumb)   +3.39% +104
 
 [Antifa Stalist](https://left.guide/profile/petersbumb) keeping the host list host with tankie takes, taking pop shots at Kamala/Biden like this banger on Somalia, holding nothing back.
 
@@ -52,6 +52,6 @@ Still riding the wave of their popular clarifying intervention about the nature 
 
 ## \#5 - [Cori Bush](https://left.guide/profile/CoriBush)   +3.40% +23,880
 
-[Cori Bush](https://left.guide/profile/CoriBush) continues to be found by tens of thousands of followers everyday, yesterday calling out Marjorie Taylor Green for not wearing a mask in the halls of congress, which got over 454,000 retweets. 
+[Cori Bush](https://left.guide/profile/CoriBush) continues to be found by tens of thousands of followers everyday, yesterday calling out Marjorie Taylor Green for not wearing a mask in the halls of congress, which got over 454,000 likes and 105,000 retweets. 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">A maskless Marjorie Taylor Greene &amp; her staff berated me in a hallway. She targeted me &amp; others on social media.<br><br>I&#39;m moving my office away from hers for my team&#39;s safety.<br><br>I&#39;ve called for the expulsion of members who incited the insurrection from Day 1. Bring H.Res 25 to a vote.</p>&mdash; Cori Bush (@CoriBush) <a href="https://twitter.com/CoriBush/status/1355198214626963457?ref_src=twsrc%5Etfw">January 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
